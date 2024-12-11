@@ -2,8 +2,8 @@
 title: "Uncertainty estimation for time series classification: Exploring predictive uncertainty in transformer-based models for variable stars"
 collection: publications
 category: manuscripts
-permalink: /publication/files/UE_AA.pdf
-excerpt: 'Classifying variable stars is key for understanding stellar evolution and galactic dynamics. With the demands of large astronomical surveys, machine learning models, especially attention-based neural networks, have become the state-of-the-art. While achieving high accuracy is crucial, enhancing model interpretability and uncertainty estimation is equally important to ensure that insights are both reliable and comprehensible. We aim to enhance transformer-based models for classifying astronomical light curves by incorporating uncertainty estimation techniques to detect misclassified instances.'
+permalink: /files/UE_AA.pdf
+excerpt: 'We aim to enhance transformer-based models for classifying astronomical light curves by incorporating uncertainty estimation techniques to detect misclassified instances.'
 date: 2015-10-01
 venue: 'submitted A&A'
 slidesurl: 'http:/martinacadiz.github.io/files/slides3.pdf'
