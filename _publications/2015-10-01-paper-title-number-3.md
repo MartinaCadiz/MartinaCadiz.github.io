@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Uncertainty estimation for time series classification: Exploring predictive uncertainty in transformer-based models for variable stars"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Classifying variable stars is key for understanding stellar evolution and galactic dynamics. With the demands of large astronomical surveys, machine learning models, especially attention-based neural networks, have become the state-of-the-art. While achieving high accuracy is crucial, enhancing model interpretability and uncertainty estimation is equally important to ensure that insights are both reliable and comprehensible. We aim to enhance transformer-based models for classifying astronomical light curves by incorporating uncertainty estimation techniques to detect misclassified instances. We tested our methods on labeled datasets from MACHO, OGLE-III, and ATLAS, introducing a framework that significantly improves the reliability of automated classification for the next-generation surveys. We used Astromer, a transformer-based encoder designed for capturing representations of single-band light curves.'
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'submitted A&A'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/UE_A&A.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
